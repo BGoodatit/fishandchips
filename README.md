@@ -1,3 +1,10 @@
+# Fish and Chips
+
+## Introduction
+
+This repository combines the features of two repositories: [theme-chain](https://github.com/BGoodatit/theme-chain) and [tide](https://github.com/BGoodatit/tide). The combined functionality offers an enhanced Fish shell prompt with the flexibility and features of both projects.
+
+
 ## Install Custom Tide Version
 
 ```fish
