@@ -4,6 +4,24 @@
 
 This repository combines the features of two repositories: [theme-chain](https://github.com/BGoodatit/theme-chain) and [tide](https://github.com/BGoodatit/tide). The combined functionality offers an enhanced Fish shell prompt with the flexibility and features of both projects.
 
+## Install Custom Tide Version
+
+### Installation
+
+To install the custom theme, run the following script:
+
+```bash
+./install_fishandchips.sh
+```
+
+### Uninstallation
+
+To uninstall the custom theme and revert to the prior state, run the following script:
+
+```bash
+./uninstall_fishandchips.sh
+```
+
 
 ## Install Custom Tide Version
 
